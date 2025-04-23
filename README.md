@@ -19,13 +19,18 @@ BillCraft is a powerful Flutter application designed to help users generate, pre
 
 > Replace with actual screenshots later
 
-### 🏠 Home / Bill Form
-![](assets/1.png)
+### 🏠 Home / Bill Form & PDF Preview
 
-### 📄 PDF Preview
-![](assets/2.png)
-![](assets/3.png)
-![](assets/4.png)
+<p align="center">
+  <img src="assets/1.png" width="45%" style="margin-right: 10px;" />
+  <img src="assets/2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/3.png" width="45%" style="margin-right: 10px;" />
+  <img src="assets/4.png" width="45%" />
+</p>
+
 ---
 
 ## 🚀 Getting Started
@@ -43,3 +48,4 @@ git clone https://github.com/your-username/billcraft.git
 cd billcraft
 flutter pub get
 flutter run
+
